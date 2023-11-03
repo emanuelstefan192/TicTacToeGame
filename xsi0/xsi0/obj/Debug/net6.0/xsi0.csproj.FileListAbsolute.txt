@@ -1,0 +1,14 @@
+C:\Users\Manuel\source\repos\xsi0\xsi0\bin\Debug\net6.0\xsi0.exe
+C:\Users\Manuel\source\repos\xsi0\xsi0\bin\Debug\net6.0\xsi0.deps.json
+C:\Users\Manuel\source\repos\xsi0\xsi0\bin\Debug\net6.0\xsi0.runtimeconfig.json
+C:\Users\Manuel\source\repos\xsi0\xsi0\bin\Debug\net6.0\xsi0.dll
+C:\Users\Manuel\source\repos\xsi0\xsi0\bin\Debug\net6.0\xsi0.pdb
+C:\Users\Manuel\source\repos\xsi0\xsi0\obj\Debug\net6.0\xsi0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manuel\source\repos\xsi0\xsi0\obj\Debug\net6.0\xsi0.AssemblyInfoInputs.cache
+C:\Users\Manuel\source\repos\xsi0\xsi0\obj\Debug\net6.0\xsi0.AssemblyInfo.cs
+C:\Users\Manuel\source\repos\xsi0\xsi0\obj\Debug\net6.0\xsi0.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\source\repos\xsi0\xsi0\obj\Debug\net6.0\xsi0.dll
+C:\Users\Manuel\source\repos\xsi0\xsi0\obj\Debug\net6.0\refint\xsi0.dll
+C:\Users\Manuel\source\repos\xsi0\xsi0\obj\Debug\net6.0\xsi0.pdb
+C:\Users\Manuel\source\repos\xsi0\xsi0\obj\Debug\net6.0\xsi0.genruntimeconfig.cache
+C:\Users\Manuel\source\repos\xsi0\xsi0\obj\Debug\net6.0\ref\xsi0.dll
